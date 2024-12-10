@@ -6,11 +6,11 @@ export const BgContainer = styled.div`
 `
 
 export const ArtistBg = styled.div`
-  background-image: ur(
+  background-image: url(
     'https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png'
   );
   height: 450px;
-  background-size: cove;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
